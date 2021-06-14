@@ -1,0 +1,11 @@
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\bin\Debug\SchoolListApp.exe.config
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\bin\Debug\SchoolListApp.exe
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\bin\Debug\SchoolListApp.pdb
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\obj\Debug\SchoolListApp.csproj.AssemblyReference.cache
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\obj\Debug\SchoolListApp.Form1.resources
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\obj\Debug\SchoolListApp.Properties.Resources.resources
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\obj\Debug\SchoolListApp.csproj.GenerateResource.cache
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\obj\Debug\SchoolListApp.csproj.CoreCompileInputs.cache
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\obj\Debug\SchoolListApp.exe
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\obj\Debug\SchoolListApp.pdb
+C:\Users\Tabby Catface\Desktop\C# SchoolListApp\SchoolListApp\SchoolListApp\bin\Debug\SchoolDataBase.mdb
